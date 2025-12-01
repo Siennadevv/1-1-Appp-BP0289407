@@ -4,7 +4,7 @@ const app = express();
 app.use(express.json());
 
 // Test route
-app.get("/", (req, res) => {
+app.get("/api/page1", (req, res) => {
   res.send("Server is running Hello sienna ");
 });
 
