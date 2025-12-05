@@ -1,7 +1,25 @@
-# React + TypeScript + Vite
+# Proejct documentation 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+
+This document will provide an overview of what the project is, who it is for and what probelms it solves. 
+Detail the project setup and deployment instructions 
+List the proejct dependances and requirements for the solution - architetcure - frameworks - and SDK's 
+Document any of the known current issue and any future improvements that are also being considered 
+
+
+---
+1. Project Overview
+Explain:
+
+What your application does
+Who it is for (target audience)
+The main problem it solves
+Example:
+
+This application helps users track their daily habits using a mobile-friendly web interface.
+
+2. Setup & Deplo
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
