@@ -9,12 +9,16 @@ Document any of the known current issue and any future improvements that are als
 
 
 ---
+## Overview
 1. Project Overview
-Explain:
 
-What your application does
-Who it is for (target audience)
-The main problem it solves
+This application is designed for Managers and employees within an organisation to implement a structured, versioned, 1-1 meeting. It provides a central place to record goals, track assigned actions, and log employee concerns. Managers can view and update their team’s tasks, while employees can mark items as completed and raise concerns for discussion. The aim is to reduce manual admin, keep discussions consistent over time, and provide a clear record of progress for both parties.
+
+traditionally 1-1 meetings often rely on scattered notes, inconsistent tracking, and manual follow-up, which leads to lost actions and limited visibility of employee concerns. Managers spend unnecessary time maintaining separate documents, and employees lack a clear place to record their progress between meetings. This application resolves these issues by centralising all actions, goals, and concerns in one system, ensuring nothing is missed and giving both managers and employees a structured, reliable way to monitor ongoing development.
+
+Future considerations: 
+As the platform develops, it can be extended beyond individual manager–employee interactions to support wider organisational needs. For HR teams, the system could provide anonymised trend reporting on recurring concerns, workload issues, or development needs across departments. This would support evidence-based decision-making and targeted interventions. For Senior Leadership, aggregated insights from 1-1 outcomes could inform workforce planning, identify capability gaps, and highlight areas requiring strategic investment. Additional features such as compliance tracking, performance review integration, and organisation-wide analytics could further position the tool as part of a broader people-management ecosystem.
+
 Example:
 
 This application helps users track their daily habits using a mobile-friendly web interface.
